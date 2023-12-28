@@ -9,5 +9,5 @@ CREATE TABLE "gallery" (
 INSERT INTO "gallery" 
   ("url", "title", "description")
   VALUES
-  ('images/goat_small.jpg', 'Goat!', 'Photo of a goat taken at Glacier National Park.');
-  
+  ('images/goat_small.jpg', 'Goat!', 'Photo of a goat taken at Glacier National Park.'),
+  ('images/ranni.jpeg', 'The age of stars', 'Thus is the age of stars, a one thousand year voyage under the wisdom of the moon.');
